@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3603
     wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14548#The-Laws-of-CandyBeaumont--amp--Fletcher-s-Works--3-of-10-
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
